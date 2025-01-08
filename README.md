@@ -8,6 +8,10 @@
 - Sleek and responsive UI powered by Tailwind CSS.
 - Firebase integration for user authentication and Firestore database management.
 - Fully optimized for mobile devices for seamless access on-the-go.
+## Screenshot
+Here’s a preview of the website:
+
+![myLink Website Screenshot](/public/screenshot.png)
 
 ## Installation
 
